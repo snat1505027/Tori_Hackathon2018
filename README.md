@@ -1,9 +1,6 @@
 # Tori
 
-Mental Health Care app using machine learning, it stores users activities on the mobile and interacts with users through a 
-chatbot which collects textual responses from users and using NLP, tries to predict users' mood and conducts further 
-interaction accordingly (e.g. sending songs, videos, sending suggestions to contact with close friends, informing 
-users about time spent in mobiles each day etc.)
+Mental Health Care app using machine learning, it stores users activities on the mobile and interacts with users through a chatbot which collects textual responses from users and using NLP, tries to predict users' mood and conducts further interaction accordingly (e.g. sending songs, videos, sending suggestions to contact with close friends, informing users about time spent in mobiles each day etc.)
 
 ## Screenshots
 
