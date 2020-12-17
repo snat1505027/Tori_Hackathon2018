@@ -1,9 +1,9 @@
 # Tori
 
-Tori is a Lifestyle and mental helath related application . Researchers found out there is a direct link
-between social media and smart widgets addiction with depression and stress. Tori monitors a user's activities on smartphone
-(how much time is spent on social media and other apps) and uses Machine Learning to intelligently track signs of depression.
-Tori is also a chatbot application to give users companinion in times of depression. 
+Mental Health Care app using machine learning, it stores users activities on the mobile and interacts with users through a 
+chatbot which collects textual responses from users and using NLP, tries to predict users' mood and conducts further 
+interaction accordingly (e.g. sending songs, videos, sending suggestions to contact with close friends, informing 
+users about time spent in mobiles each day etc.)
 
 ## Screenshots
 
